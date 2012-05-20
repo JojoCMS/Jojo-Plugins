@@ -1,0 +1,294 @@
+[submodule "jojo_bannerimage"]
+	path = jojo_bannerimage
+	url = git@github.com:JojoCMS-Plugins/jojo_bannerimage.git
+[submodule "jojo_affiliate"]
+	path = jojo_affiliate
+	url = git@github.com:JojoCMS-Plugins/jojo_affiliate.git
+[submodule "jojo_banned_ips"]
+	path = jojo_banned_ips
+	url = git@github.com:JojoCMS-Plugins/jojo_banned_ips.git
+[submodule "jojo_banned_ips_data"]
+	path = jojo_banned_ips_data
+	url = git@github.com:JojoCMS-Plugins/jojo_banned_ips_data.git
+[submodule "jojo_blogicons"]
+	path = jojo_blogicons
+	url = git@github.com:JojoCMS-Plugins/jojo_blogicons.git
+[submodule "jojo_cart"]
+	path = jojo_cart
+	url = git@github.com:JojoCMS-Plugins/jojo_cart.git
+[submodule "jojo_cart_checkout_basic"]
+	path = jojo_cart_checkout_basic
+	url = git@github.com:JojoCMS-Plugins/jojo_cart_checkout_basic.git
+[submodule "jojo_cart_checkout_extended"]
+	path = jojo_cart_checkout_extended
+	url = git@github.com:JojoCMS-Plugins/jojo_cart_checkout_extended.git
+[submodule "jojo_cart_checkout_userbased"]
+	path = jojo_cart_checkout_userbased
+	url = git@github.com:JojoCMS-Plugins/jojo_cart_checkout_userbased.git
+[submodule "jojo_cart_cities_au"]
+	path = jojo_cart_cities_au
+	url = git@github.com:JojoCMS-Plugins/jojo_cart_cities_au.git
+[submodule "jojo_cart_cities_nz"]
+	path = jojo_cart_cities_nz
+	url = git@github.com:JojoCMS-Plugins/jojo_cart_cities_nz.git
+[submodule "jojo_cart_dps"]
+	path = jojo_cart_dps
+	url = git@github.com:JojoCMS-Plugins/jojo_cart_dps.git
+[submodule "jojo_cart_dps_pxpay"]
+	path = jojo_cart_dps_pxpay
+	url = git@github.com:JojoCMS-Plugins/jojo_cart_dps_pxpay.git
+[submodule "jojo_cart_manual_payment"]
+	path = jojo_cart_manual_payment
+	url = git@github.com:JojoCMS-Plugins/jojo_cart_manual_payment.git
+[submodule "jojo_cart_paymex_pro"]
+	path = jojo_cart_paymex_pro
+	url = git@github.com:JojoCMS-Plugins/jojo_cart_paymex_pro.git
+[submodule "jojo_cart_paypal"]
+	path = jojo_cart_paypal
+	url = git@github.com:JojoCMS-Plugins/jojo_cart_paypal.git
+[submodule "jojo_cart_pickup"]
+	path = jojo_cart_pickup
+	url = git@github.com:JojoCMS-Plugins/jojo_cart_pickup.git
+[submodule "jojo_cart_product_award"]
+	path = jojo_cart_product_award
+	url = git@github.com:JojoCMS-Plugins/jojo_cart_product_award.git
+[submodule "jojo_cart_products1"]
+	path = jojo_cart_products1
+	url = git@github.com:JojoCMS-Plugins/jojo_cart_products1.git
+[submodule "jojo_cart_products_wine"]
+	path = jojo_cart_products_wine
+	url = git@github.com:JojoCMS-Plugins/jojo_cart_products_wine.git
+[submodule "jojo_cart_securepaytech"]
+	path = jojo_cart_securepaytech
+	url = git@github.com:JojoCMS-Plugins/jojo_cart_securepaytech.git
+[submodule "jojo_cart_test_processor"]
+	path = jojo_cart_test_processor
+	url = git@github.com:JojoCMS-Plugins/jojo_cart_test_processor.git
+[submodule "jojo_cart_widget"]
+	path = jojo_cart_widget
+	url = git@github.com:JojoCMS-Plugins/jojo_cart_widget.git
+[submodule "jojo_community"]
+	path = jojo_community
+	url = git@github.com:JojoCMS-Plugins/jojo_community.git
+[submodule "jojo_content_approval"]
+	path = jojo_content_approval
+	url = git@github.com:JojoCMS-Plugins/jojo_content_approval.git
+[submodule "jojo_custom_captcha"]
+	path = jojo_custom_captcha
+	url = git@github.com:JojoCMS-Plugins/jojo_custom_captcha.git
+[submodule "jojo_event"]
+	path = jojo_event
+	url = git@github.com:JojoCMS-Plugins/jojo_event.git
+[submodule "jojo_hold_page"]
+	path = jojo_hold_page
+	url = git@github.com:JojoCMS-Plugins/jojo_hold_page.git
+[submodule "jojo_external_links"]
+	path = jojo_external_links
+	url = git@github.com:JojoCMS-Plugins/jojo_external_links.git
+[submodule "jojo_facebook"]
+	path = jojo_facebook
+	url = git@github.com:JojoCMS-Plugins/jojo_facebook.git
+[submodule "jojo_faq"]
+	path = jojo_faq
+	url = git@github.com:JojoCMS-Plugins/jojo_faq
+[submodule "jojo_forum"]
+	path = jojo_forum
+	url = git@github.com:JojoCMS-Plugins/jojo_forum.git
+[submodule "jojo_gallery3"]
+	path = jojo_gallery3
+	url = git@github.com:JojoCMS-Plugins/jojo_gallery3.git
+[submodule "jojo_gcal"]
+	path = jojo_gcal
+	url = git@github.com:JojoCMS-Plugins/jojo_gcal.git
+[submodule "jojo_abtest"]
+	path = jojo_abtest
+	url = git@github.com:JojoCMS-Plugins/jojo_abtest.git
+[submodule "jojo_autotag"]
+	path = jojo_autotag
+	url = git@github.com:JojoCMS-Plugins/jojo_autotag.git
+[submodule "jojo_bulkedit"]
+	path = jojo_bulkedit
+	url = git@github.com:JojoCMS-Plugins/jojo_bulkedit.git
+[submodule "jojo_cart_products_example"]
+	path = jojo_cart_products_example
+	url = git@github.com:JojoCMS-Plugins/jojo_cart_products_example.git
+[submodule "jojo_community_legacy"]
+	path = jojo_community_legacy
+	url = git@github.com:JojoCMS-Plugins/jojo_community_legacy.git
+[submodule "jojo_convert_currency"]
+	path = jojo_convert_currency
+	url = git@github.com:JojoCMS-Plugins/jojo_convert_currency.git
+[submodule "jojo_eventlogcleaner"]
+	path = jojo_eventlogcleaner
+	url = git@github.com:JojoCMS-Plugins/jojo_eventlogcleaner.git
+[submodule "jojo_flash_slideshow"]
+	path = jojo_flash_slideshow
+	url = git@github.com:JojoCMS-Plugins/jojo_flash_slideshow.git
+[submodule "jojo_galleryrss"]
+	path = jojo_galleryrss
+	url = git@github.com:JojoCMS-Plugins/jojo_galleryrss.git
+[submodule "jojo_geolite_city"]
+	path = jojo_geolite_city
+	url = git@github.com:JojoCMS-Plugins/jojo_geolite_city.git
+[submodule "jojo_geolite_country"]
+	path = jojo_geolite_country
+	url = git@github.com:JojoCMS-Plugins/jojo_geolite_country.git
+[submodule "jojo_gmaps"]
+	path = jojo_gmaps
+	url = git@github.com:JojoCMS-Plugins/jojo_gmaps.git
+[submodule "jojo_googlevideo"]
+	path = jojo_googlevideo
+	url = git@github.com:JojoCMS-Plugins/jojo_googlevideo.git
+[submodule "jojo_hello"]
+	path = jojo_hello
+	url = git@github.com:JojoCMS-Plugins/jojo_hello.git
+[submodule "jojo_html2bbcode"]
+	path = jojo_html2bbcode
+	url = git@github.com:JojoCMS-Plugins/jojo_html2bbcode.git
+[submodule "jojo_imagemanager"]
+	path = jojo_imagemanager
+	url = git@github.com:JojoCMS-Plugins/jojo_imagemanager.git
+[submodule "jojo_inline"]
+	path = jojo_inline
+	url = git@github.com:JojoCMS-Plugins/jojo_inline.git
+[submodule "jojo_interspire_api"]
+	path = jojo_interspire_api
+	url = git@github.com:JojoCMS-Plugins/jojo_interspire_api.git
+[submodule "jojo_ip"]
+	path = jojo_ip
+	url = git@github.com:JojoCMS-Plugins/jojo_ip.git
+[submodule "jojo_jdatepicker"]
+	path = jojo_jdatepicker
+	url = git@github.com:JojoCMS-Plugins/jojo_jdatepicker.git
+[submodule "jojo_jgallery"]
+	path = jojo_jgallery
+	url = git@github.com:JojoCMS-Plugins/jojo_jgallery.git
+[submodule "jojo_job"]
+	path = jojo_job
+	url = git@github.com:JojoCMS-Plugins/jojo_job.git
+[submodule "jojo_jplayer"]
+	path = jojo_jplayer
+	url = git@github.com:JojoCMS-Plugins/jojo_jplayer.git
+[submodule "jojo_jqtransform"]
+	path = jojo_jqtransform
+	url = git@github.com:JojoCMS-Plugins/jojo_jqtransform.git
+[submodule "jojo_jquery_lightbox"]
+	path = jojo_jquery_lightbox
+	url = git@github.com:JojoCMS-Plugins/jojo_jquery_lightbox.git
+[submodule "jojo_lightbox"]
+	path = jojo_lightbox
+	url = git@github.com:JojoCMS-Plugins/jojo_lightbox.git
+[submodule "jojo_link_exchange"]
+	path = jojo_link_exchange
+	url = git@github.com:JojoCMS-Plugins/jojo_link_exchange.git
+[submodule "jojo_links"]
+	path = jojo_links
+	url = git@github.com:JojoCMS-Plugins/jojo_links.git
+[submodule "jojo_mailchimp_api"]
+	path = jojo_mailchimp_api
+	url = git@github.com:JojoCMS-Plugins/jojo_mailchimp_api.git
+[submodule "jojo_manualspamblock"]
+	path = jojo_manualspamblock
+	url = git@github.com:JojoCMS-Plugins/jojo_manualspamblock.git
+[submodule "jojo_menu_dropdown"]
+	path = jojo_menu_dropdown
+	url = git@github.com:JojoCMS-Plugins/jojo_menu_dropdown.git
+[submodule "jojo_obfuscate_email"]
+	path = jojo_obfuscate_email
+	url = git@github.com:JojoCMS-Plugins/jojo_obfuscate_email.git
+[submodule "jojo_openid"]
+	path = jojo_openid
+	url = git@github.com:JojoCMS-Plugins/jojo_openid.git
+[submodule "jojo_pagination"]
+	path = jojo_pagination
+	url = git@github.com:JojoCMS-Plugins/jojo_pagination.git
+[submodule "jojo_pdf"]
+	path = jojo_pdf
+	url = git@github.com:JojoCMS-Plugins/jojo_pdf.git
+[submodule "jojo_php51"]
+	path = jojo_php51
+	url = git@github.com:JojoCMS-Plugins/jojo_php51.git
+[submodule "jojo_pluginmanager"]
+	path = jojo_pluginmanager
+	url = git@github.com:JojoCMS-Plugins/jojo_pluginmanager.git
+[submodule "jojo_pngfix"]
+	path = jojo_pngfix
+	url = git@github.com:JojoCMS-Plugins/jojo_pngfix.git
+[submodule "jojo_press"]
+	path = jojo_press
+	url = git@github.com:JojoCMS-Plugins/jojo_press.git
+[submodule "jojo_profile"]
+	path = jojo_profile
+	url = git@github.com:JojoCMS-Plugins/jojo_profile.git
+[submodule "jojo_quick_edit"]
+	path = jojo_quick_edit
+	url = git@github.com:JojoCMS-Plugins/jojo_quick_edit.git
+[submodule "jojo_quote"]
+	path = jojo_quote
+	url = git@github.com:JojoCMS-Plugins/jojo_quote.git
+[submodule "jojo_reflect"]
+	path = jojo_reflect
+	url = git@github.com:JojoCMS-Plugins/jojo_reflect.git
+[submodule "jojo_rss_reader"]
+	path = jojo_rss_reader
+	url = git@github.com:JojoCMS-Plugins/jojo_rss_reader.git
+[submodule "jojo_shadowbox"]
+	path = jojo_shadowbox
+	url = git@github.com:JojoCMS-Plugins/jojo_shadowbox.git
+[submodule "jojo_sharethis"]
+	path = jojo_sharethis
+	url = git@github.com:JojoCMS-Plugins/jojo_sharethis.git
+[submodule "jojo_simplecloak"]
+	path = jojo_simplecloak
+	url = git@github.com:JojoCMS-Plugins/jojo_simplecloak.git
+[submodule "jojo_slideshow"]
+	path = jojo_slideshow
+	url = git@github.com:JojoCMS-Plugins/jojo_slideshow.git
+[submodule "jojo_sms"]
+	path = jojo_sms
+	url = git@github.com:JojoCMS-Plugins/jojo_sms.git
+[submodule "jojo_sponsor"]
+	path = jojo_sponsor
+	url = git@github.com:JojoCMS-Plugins/jojo_sponsor.git
+[submodule "jojo_stockist"]
+	path = jojo_stockist
+	url = git@github.com:JojoCMS-Plugins/jojo_stockist.git
+[submodule "jojo_swfobject"]
+	path = jojo_swfobject
+	url = git@github.com:JojoCMS-Plugins/jojo_swfobject.git
+[submodule "jojo_testimonial"]
+	path = jojo_testimonial
+	url = git@github.com:JojoCMS-Plugins/jojo_testimonial.git
+[submodule "jojo_text_link_ads"]
+	path = jojo_text_link_ads
+	url = git@github.com:JojoCMS-Plugins/jojo_text_link_ads.git
+[submodule "jojo_thickbox"]
+	path = jojo_thickbox
+	url = git@github.com:JojoCMS-Plugins/jojo_thickbox.git
+[submodule "jojo_translate"]
+	path = jojo_translate
+	url = git@github.com:JojoCMS-Plugins/jojo_translate.git
+[submodule "jojo_txt"]
+	path = jojo_txt
+	url = git@github.com:JojoCMS-Plugins/jojo_txt.git
+[submodule "jojo_version_history"]
+	path = jojo_version_history
+	url = git@github.com:JojoCMS-Plugins/jojo_version_history.git
+[submodule "jojo_video"]
+	path = jojo_video
+	url = git@github.com:JojoCMS-Plugins/jojo_video.git
+[submodule "jojo_videoembed"]
+	path = jojo_videoembed
+	url = git@github.com:JojoCMS-Plugins/jojo_videoembed.git
+[submodule "jojo_weather"]
+	path = jojo_weather
+	url = git@github.com:JojoCMS-Plugins/jojo_weather.git
+[submodule "jojo_wiki"]
+	path = jojo_wiki
+	url = git@github.com:JojoCMS-Plugins/jojo_wiki.git
+[submodule "jojo_youtube"]
+	path = jojo_youtube
+	url = git@github.com:JojoCMS-Plugins/jojo_youtube.git
+[submodule "jojo_zmaps"]
+	path = jojo_zmaps
+	url = git@github.com:JojoCMS-Plugins/jojo_zmaps.git
