@@ -292,3 +292,9 @@
 [submodule "jojo_zmaps"]
 	path = jojo_zmaps
 	url = git@github.com:JojoCMS-Plugins/jojo_zmaps.git
+[submodule "jojo_newsletter_phplist"]
+	path = jojo_newsletter_phplist
+	url = git@github.com:JojoCMS-Plugins/jojo_newsletter_phplist.git
+[submodule "jojo_newsletter"]
+	path = jojo_newsletter
+	url = git@github.com:JojoCMS-Plugins/jojo_newsletter.git
