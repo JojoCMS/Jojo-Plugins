@@ -298,3 +298,6 @@
 [submodule "jojo_newsletter"]
 	path = jojo_newsletter
 	url = git@github.com:JojoCMS-Plugins/jojo_newsletter.git
+[submodule "jojo_super_background"]
+	path = jojo_super_background
+	url = git@github.com:JojoCMS-Plugins/jojo_super_background.git
