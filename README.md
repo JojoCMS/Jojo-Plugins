@@ -1,13 +1,28 @@
 This repo forms an easy way to manage multiple repos in bulk.
 
-After cloning this repo you need to initialise the submodules then fetch them:
-```git submodule init```
-```git submodule update --recursive```
+You can still work with individual repos as desired.
 
-To add a repo:
-```git submodule add <url> <dirname>```
+##Setup
+After cloning this repo you need to initialise the submodules then fetch them:
+```bash
+git submodule init
+git submodule foreach git pull origin master
+```
 
 To update all repos:
-```git submodule update --recursive```
+```bash
+git submodule foreach git pull origin master
+```
 
-You can still work with individual repos as desired.
+##Adding a repo
+Add an new external repo using the following command:
+```bash
+git submodule add <url> <dirname>
+```
+Then commit and push.
+
+##File modes on Linux
+Easily update filemodes on all submodules using the following in the parent repository:
+```bash
+git submodule foreach git config core.filemode false
+```
