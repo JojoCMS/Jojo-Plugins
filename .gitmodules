@@ -301,3 +301,6 @@
 [submodule "jojo_super_background"]
 	path = jojo_super_background
 	url = git@github.com:JojoCMS-Plugins/jojo_super_background.git
+[submodule "jojo_bxslider"]
+	path = jojo_bxslider
+	url = git@github.com:JojoCMS-Plugins/jojo_bxslider.git
